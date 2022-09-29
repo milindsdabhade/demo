@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SyscortAssignment",
+    "slug": "SyscortAssignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SyscortAssignment"
+}
